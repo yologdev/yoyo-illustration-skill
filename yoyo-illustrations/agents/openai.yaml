@@ -1,0 +1,6 @@
+interface:
+  display_name: "yoyo Illustrations"
+  short_description: "Generate clean, quietly weird hand-drawn body illustrations for an article, starring yoyo the purple octopus. Works in English, 中文, and other languages."
+  default_prompt: "Use $yoyo-illustrations to design and generate a few hand-drawn body illustrations for this article, with yoyo as the main character and annotations in the article's language."
+policy:
+  allow_implicit_invocation: true
