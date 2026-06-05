@@ -1,6 +1,15 @@
 ---
 name: yoyo-illustrations
-description: Generate clean, quietly weird, hand-drawn 16:9 illustrations for article bodies, with yoyo (a soft purple octopus) as the recurring main character. Use when the user asks to illustrate an article, blog post, Notion doc, workflow doc, methodology, process, structure, state, metaphor or argument — triggers include "illustrate / 配图 / 正文配图 / 文章插图 / shot list / hand-drawn / 手绘 / yoyo 配图 / octopus illustration". Works in any language: annotations are written in the same language as the source article (English, 中文, etc.). yoyo is the single purple subject on an otherwise pure-white, black line-art canvas with sparse red/orange/blue handwritten notes.
+description: >-
+  Generate clean, quietly weird, hand-drawn 16:9 illustrations for article
+  bodies, with yoyo (a soft purple octopus) as the recurring main character.
+  Use when the user asks to illustrate an article, blog post, Notion doc,
+  workflow doc, methodology, process, structure, state, metaphor or argument —
+  triggers include "illustrate / 配图 / 正文配图 / 文章插图 / shot list / hand-drawn
+  / 手绘 / yoyo 配图 / octopus illustration". Works in any language: annotations
+  are written in the same language as the source article (English, 中文, etc.).
+  yoyo is the single purple subject on an otherwise pure-white, black line-art
+  canvas with sparse red/orange/blue handwritten notes.
 ---
 
 # yoyo Hand-drawn Article Illustrations
